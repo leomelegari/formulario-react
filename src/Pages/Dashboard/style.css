@@ -1,0 +1,14 @@
+.welcome-message {
+    max-width: 400px;
+    text-align: center;
+}
+
+
+.welcome-message h2 {
+    text-align: center;
+}
+
+.welcome-message h3 {
+    text-align: center;
+    padding: 10px;
+}
